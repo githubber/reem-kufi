@@ -1,0 +1,19 @@
+StartChar: uni2215
+Encoding: 8725 8725 114
+Width: 180
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+-2 -1 m 1
+ 324 707 l 1
+ 299 710 l 1
+ 223 678 l 1
+ -102 -29 l 1
+ -80 -32 l 1
+ -2 -1 l 1
+EndSplineSet
+EndChar

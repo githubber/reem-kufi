@@ -1,0 +1,24 @@
+StartChar: tilde
+Encoding: 732 732 124
+Width: 370
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 186 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+311 743 m 1
+ 291 743 l 1
+ 285 728 259 718 231 718 c 0
+ 195 718 138 745 88 745 c 0
+ 51 745 20 705 20 705 c 1
+ 58 632 l 1
+ 79 632 l 1
+ 85 647 111 659 139 659 c 0
+ 192 659 232 630 282 630 c 0
+ 319 630 350 670 350 670 c 1
+ 311 743 l 1
+EndSplineSet
+EndChar

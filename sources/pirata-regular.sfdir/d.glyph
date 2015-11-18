@@ -1,0 +1,35 @@
+StartChar: d
+Encoding: 100 100 11
+Width: 430
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+238 770 m 0
+ 196 770 85 720 85 720 c 1
+ 85 690 l 1
+ 118 690 l 2
+ 147 690 173 649 219 547 c 1
+ 147 522 50 484 50 478 c 2
+ 50 121 l 2
+ 50 53 124 0 135 0 c 0
+ 149 0 205 32 260 66 c 1
+ 260 27 320 0 320 0 c 1
+ 422 60 429 61 429 61 c 1
+ 429 83 l 1
+ 395 88 381 128 381 153 c 2
+ 381 458 l 2
+ 381 521 275 770 238 770 c 0
+260 108 m 1
+ 260 108 243 92 221 92 c 0
+ 199 92 170 103 170 166 c 2
+ 170 477 l 1
+ 170 477 206 501 239 501 c 0
+ 244 501 260 464 260 456 c 2
+ 260 108 l 1
+EndSplineSet
+Kerns2: 24 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+EndChar

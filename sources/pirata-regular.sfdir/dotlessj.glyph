@@ -1,0 +1,25 @@
+StartChar: dotlessj
+Encoding: 567 567 134
+Width: 220
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 110 630 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+50 113 m 2
+ 50 -31 36 -90 -12 -90 c 2
+ -46 -90 l 1
+ -46 -120 l 1
+ -46 -120 56 -180 112 -180 c 0
+ 139 -180 170 -57 170 106 c 2
+ 170 502 l 2
+ 170 542 110 570 110 570 c 1
+ 9 513 l 1
+ 9 491 l 1
+ 34 486 50 467 50 422 c 2
+ 50 113 l 2
+EndSplineSet
+EndChar

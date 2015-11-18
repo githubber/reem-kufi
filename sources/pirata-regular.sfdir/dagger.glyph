@@ -1,0 +1,29 @@
+StartChar: dagger
+Encoding: 8224 8224 98
+Width: 190
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+-65 283 m 1
+ -65 261 l 1
+ 55 261 l 1
+ 55 -169 l 1
+ 77 -169 l 1
+ 135 -109 l 1
+ 135 261 l 1
+ 196 261 l 1
+ 256 316 l 1
+ 256 340 l 1
+ 135 340 l 1
+ 135 759 l 1
+ 111 759 l 1
+ 55 699 l 1
+ 55 340 l 1
+ -5 340 l 1
+ -65 283 l 1
+EndSplineSet
+EndChar

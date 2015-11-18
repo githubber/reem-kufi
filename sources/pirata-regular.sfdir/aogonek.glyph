@@ -1,0 +1,21 @@
+StartChar: aogonek
+Encoding: 261 261 166
+Width: 410
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+317 -7 m 0
+ 317 30 336 83 336 83 c 1
+ 252 38 l 1
+ 252 38 236 -10 236 -59 c 0
+ 236 -128 317 -150 332 -150 c 0
+ 347 -150 436 -112 436 -112 c 1
+ 436 -94 l 1
+ 317 -94 317 -44 317 -7 c 0
+EndSplineSet
+Refer: 24 97 N 1 0 0 1 10 0 2
+EndChar

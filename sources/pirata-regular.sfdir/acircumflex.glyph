@@ -1,0 +1,22 @@
+StartChar: acircumflex
+Encoding: 226 226 160
+Width: 410
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+297 791 m 0
+ 293 794 274 806 242 806 c 0
+ 210 806 190 794 187 791 c 0
+ 155 760 74 688 74 674 c 0
+ 74 651 86 631 90 631 c 0
+ 107 631 183 683 242 730 c 1
+ 301 683 377 631 394 631 c 0
+ 398 631 410 651 410 674 c 0
+ 410 688 331 763 297 791 c 0
+EndSplineSet
+Refer: 24 97 N 1 0 0 1 10 0 2
+EndChar

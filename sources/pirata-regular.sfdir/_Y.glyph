@@ -1,0 +1,35 @@
+StartChar: Y
+Encoding: 89 89 66
+Width: 396
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 216 809 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-38 709 m 1
+ 66 770 l 1
+ 105 770 l 1
+ 220 409 l 1
+ 230 414 236 416 236 416 c 1
+ 236 625 l 2
+ 236 690 195 692 195 692 c 1
+ 195 714 l 1
+ 291 771 l 1
+ 296 771 351 737 351 706 c 2
+ 351 420 l 2
+ 351 407 275 376 239 363 c 1
+ 239 175 l 2
+ 239 134 244 117 279 117 c 1
+ 279 89 l 1
+ 75 0 l 1
+ 59 32 l 1
+ 119 47 119 105 119 145 c 2
+ 119 356 l 1
+ 19 656 l 2
+ 8 688 -13 688 -38 688 c 1
+ -38 709 l 1
+EndSplineSet
+EndChar

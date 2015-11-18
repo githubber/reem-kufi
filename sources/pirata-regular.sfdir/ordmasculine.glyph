@@ -1,0 +1,26 @@
+StartChar: ordmasculine
+Encoding: 186 186 233
+Width: 316
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+50 540 m 2
+ 50 483 87 445 108 445 c 0
+ 129 445 266 498 266 505 c 2
+ 266 695 l 2
+ 266 726 223 770 209 770 c 0
+ 194 770 50 716 50 709 c 2
+ 50 540 l 2
+186 517 m 1
+ 186 517 176 505 161 505 c 0
+ 147 505 129 512 129 553 c 2
+ 129 698 l 1
+ 129 698 138 709 154 709 c 0
+ 167 709 186 701 186 661 c 2
+ 186 517 l 1
+EndSplineSet
+EndChar

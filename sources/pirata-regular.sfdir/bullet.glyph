@@ -1,0 +1,19 @@
+StartChar: bullet
+Encoding: 8226 8226 102
+Width: 223
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+50 263 m 2
+ 50 231 72 209 83 209 c 0
+ 94 209 173 240 173 244 c 2
+ 173 378 l 2
+ 173 396 148 421 140 421 c 0
+ 133 421 50 390 50 387 c 2
+ 50 263 l 2
+EndSplineSet
+EndChar

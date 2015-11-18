@@ -1,0 +1,24 @@
+StartChar: atilde
+Encoding: 227 227 161
+Width: 410
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+372 743 m 1
+ 352 743 l 1
+ 346 728 320 718 292 718 c 0
+ 256 718 199 745 149 745 c 0
+ 112 745 81 705 81 705 c 1
+ 119 632 l 1
+ 140 632 l 1
+ 146 647 172 659 200 659 c 0
+ 253 659 293 630 343 630 c 0
+ 380 630 411 670 411 670 c 1
+ 372 743 l 1
+EndSplineSet
+Refer: 24 97 N 1 0 0 1 10 0 2
+EndChar

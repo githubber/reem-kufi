@@ -1,0 +1,27 @@
+StartChar: dieresis
+Encoding: 168 168 107
+Width: 388
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 194 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+36 688 m 2
+ 36 649 56 630 66 630 c 0
+ 76 630 145 657 145 661 c 2
+ 145 726 l 2
+ 145 751 123 773 116 773 c 0
+ 110 773 36 746 36 742 c 2
+ 36 688 l 2
+243 688 m 2
+ 243 649 263 630 273 630 c 0
+ 283 630 352 657 352 661 c 2
+ 352 726 l 2
+ 352 751 330 773 323 773 c 0
+ 317 773 243 746 243 742 c 2
+ 243 688 l 2
+EndSplineSet
+EndChar

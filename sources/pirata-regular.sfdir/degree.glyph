@@ -1,0 +1,26 @@
+StartChar: degree
+Encoding: 176 176 234
+Width: 316
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+50 607 m 2
+ 50 550 87 512 108 512 c 0
+ 129 512 266 565 266 572 c 2
+ 266 695 l 2
+ 266 726 223 770 209 770 c 0
+ 194 770 50 716 50 709 c 2
+ 50 607 l 2
+186 584 m 1
+ 186 584 176 572 161 572 c 0
+ 147 572 129 579 129 620 c 2
+ 129 698 l 1
+ 129 698 138 709 154 709 c 0
+ 167 709 186 701 186 661 c 2
+ 186 584 l 1
+EndSplineSet
+EndChar

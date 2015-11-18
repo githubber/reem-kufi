@@ -1,0 +1,57 @@
+StartChar: w
+Encoding: 119 119 29
+Width: 641
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+((dp3
+S'y'
+F475
+sS'x'
+F0
+sS'magnetic'
+p4
+I5
+sS'angle'
+p5
+F0
+sS'isGlobal'
+p6
+I00
+stp7
+s."
+AnchorPoint: "top" 319 630 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+260 106 m 1
+ 249 102 238 100 229 100 c 0
+ 191 100 170 135 170 195 c 2
+ 170 504 l 2
+ 170 542 110 571 110 571 c 1
+ 1 510 l 1
+ 1 488 l 1
+ 26 483 50 468 50 423 c 2
+ 50 121 l 2
+ 50 77 93 0 135 0 c 0
+ 153 0 216 30 273 62 c 1
+ 289 30 317 0 345 0 c 0
+ 390 0 591 82 591 93 c 2
+ 591 423 l 2
+ 591 533 520 570 501 570 c 0
+ 500 570 383 511 380 509 c 1
+ 372 542 328 570 320 570 c 0
+ 319 570 211 510 211 510 c 1
+ 211 488 l 1
+ 211 488 260 484 260 423 c 2
+ 260 106 l 1
+470 107 m 1
+ 470 107 450 98 431 98 c 0
+ 395 98 381 149 381 185 c 2
+ 381 475 l 1
+ 439 474 470 461 470 387 c 2
+ 470 107 l 1
+EndSplineSet
+EndChar

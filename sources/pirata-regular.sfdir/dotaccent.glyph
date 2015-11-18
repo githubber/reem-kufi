@@ -1,0 +1,20 @@
+StartChar: dotaccent
+Encoding: 729 729 19
+Width: 191
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 93 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+35 695 m 2
+ 35 652 57 631 68 631 c 0
+ 79 631 156 661 156 665 c 2
+ 156 738 l 2
+ 156 765 132 790 124 790 c 0
+ 117 790 35 760 35 756 c 2
+ 35 695 l 2
+EndSplineSet
+EndChar

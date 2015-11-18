@@ -1,0 +1,20 @@
+StartChar: grave
+Encoding: 96 96 119
+Width: 181
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 93 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+112 796 m 0
+ 131 765 161 702 161 674 c 0
+ 161 651 149 631 145 631 c 0
+ 133 631 114 638 110 643 c 0
+ 96 661 20 763 20 787 c 0
+ 20 794 28 806 67 806 c 0
+ 90 806 109 801 112 796 c 0
+EndSplineSet
+EndChar

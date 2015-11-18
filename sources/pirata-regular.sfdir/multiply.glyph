@@ -1,0 +1,29 @@
+StartChar: multiply
+Encoding: 215 215 239
+Width: 421
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+268 412 m 1
+ 211 356 l 1
+ 154 412 l 1
+ 71 415 l 1
+ 56 399 l 1
+ 156 300 l 1
+ 55 199 l 1
+ 72 182 l 1
+ 153 186 l 1
+ 211 244 l 1
+ 269 187 l 1
+ 350 183 l 1
+ 367 200 l 1
+ 267 300 l 1
+ 366 399 l 1
+ 351 414 l 1
+ 268 412 l 1
+EndSplineSet
+EndChar

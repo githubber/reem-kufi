@@ -1,0 +1,19 @@
+StartChar: period
+Encoding: 46 46 43
+Width: 221
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+50 64 m 2
+ 50 21 72 0 83 0 c 0
+ 94 0 171 30 171 34 c 2
+ 171 107 l 2
+ 171 134 147 159 139 159 c 0
+ 132 159 50 129 50 125 c 2
+ 50 64 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,20 @@
+StartChar: egrave
+Encoding: 232 232 175
+Width: 430
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+233 796 m 0
+ 252 765 282 702 282 674 c 0
+ 282 651 270 631 266 631 c 0
+ 254 631 235 638 231 643 c 0
+ 217 661 141 763 141 787 c 0
+ 141 794 149 806 188 806 c 0
+ 211 806 230 801 233 796 c 0
+EndSplineSet
+Refer: 5 101 N 1 0 0 1 0 0 2
+EndChar

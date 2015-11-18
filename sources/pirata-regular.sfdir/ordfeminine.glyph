@@ -1,0 +1,49 @@
+StartChar: ordfeminine
+Encoding: 170 170 232
+Width: 331
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+((dp3
+S'y'
+F448
+sS'x'
+F0
+sS'magnetic'
+p4
+I5
+sS'angle'
+p5
+F0
+sS'isGlobal'
+p6
+I00
+stp7
+s."
+LayerCount: 2
+Fore
+SplineSet
+272 691 m 2
+ 272 731 241 770 210 770 c 0
+ 197 770 93 733 93 733 c 1
+ 93 712 l 1
+ 172 712 192 683 192 654 c 1
+ 192 654 50 611 50 588 c 2
+ 50 525 l 2
+ 50 476 108 445 108 445 c 1
+ 192 491 l 1
+ 192 464 232 445 232 445 c 1
+ 306 487 l 1
+ 306 502 l 1
+ 287 506 272 513 272 549 c 2
+ 272 691 l 2
+192 521 m 1
+ 192 521 179 510 165 510 c 0
+ 149 510 131 525 131 550 c 2
+ 131 554 l 2
+ 131 601 156 610 192 623 c 1
+ 192 521 l 1
+EndSplineSet
+EndChar

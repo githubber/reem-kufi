@@ -1,0 +1,51 @@
+StartChar: twosuperior
+Encoding: 178 178 215
+Width: 310
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.guides'
+p2
+((dp3
+S'y'
+F449
+sS'x'
+F0
+sS'magnetic'
+p4
+I5
+sS'angle'
+p5
+F0
+sS'isGlobal'
+p6
+I00
+stp7
+s."
+LayerCount: 2
+Fore
+SplineSet
+50 708 m 2
+ 50 713 188 770 204 770 c 0
+ 222 770 260 715 260 693 c 2
+ 260 627 l 2
+ 260 584 132 504 132 504 c 1
+ 191 504 l 2
+ 202 504 229 517 238 537 c 1
+ 237 537 250 536 250 536 c 1
+ 289 482 l 1
+ 289 482 272 449 238 449 c 2
+ 47 449 l 1
+ 47 449 33 486 33 512 c 0
+ 33 535 180 612 180 632 c 2
+ 180 658 l 2
+ 180 697 170 716 149 716 c 0
+ 137 716 123 702 123 702 c 1
+ 123 668 l 2
+ 123 653 123 643 102 635 c 1
+ 41 607 l 1
+ 31 617 l 1
+ 31 617 50 638 50 660 c 2
+ 50 708 l 2
+EndSplineSet
+EndChar

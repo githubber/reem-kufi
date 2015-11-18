@@ -1,0 +1,24 @@
+StartChar: dotlessi
+Encoding: 305 305 15
+Width: 220
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 110 630 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+9 513 m 1
+ 9 491 l 1
+ 34 486 50 467 50 422 c 2
+ 50 68 l 2
+ 50 28 110 0 110 0 c 1
+ 211 57 l 1
+ 211 79 l 1
+ 186 84 170 103 170 148 c 2
+ 170 502 l 2
+ 170 542 110 570 110 570 c 1
+ 9 513 l 1
+EndSplineSet
+EndChar

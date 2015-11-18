@@ -1,0 +1,24 @@
+StartChar: breve
+Encoding: 728 728 127
+Width: 323
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 163 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+303 746 m 2
+ 303 769 283 790 276 790 c 0
+ 270 790 210 765 210 761 c 2
+ 210 713 l 1
+ 210 713 181 676 131 676 c 1
+ 113 746 l 2
+ 107 768 93 790 86 790 c 0
+ 80 790 20 765 20 761 c 0
+ 20 680 103 630 129 630 c 0
+ 155 630 303 700 303 710 c 2
+ 303 746 l 2
+EndSplineSet
+EndChar

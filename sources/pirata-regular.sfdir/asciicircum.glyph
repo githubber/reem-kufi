@@ -1,0 +1,22 @@
+StartChar: asciicircum
+Encoding: 94 94 122
+Width: 376
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 188 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+243 791 m 0
+ 239 794 220 806 188 806 c 0
+ 156 806 136 794 133 791 c 0
+ 101 760 20 688 20 674 c 0
+ 20 651 32 631 36 631 c 0
+ 53 631 129 683 188 730 c 1
+ 247 683 323 631 340 631 c 0
+ 344 631 356 651 356 674 c 0
+ 356 688 277 763 243 791 c 0
+EndSplineSet
+EndChar

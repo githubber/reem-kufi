@@ -1,0 +1,19 @@
+StartChar: quotesingle
+Encoding: 39 39 135
+Width: 151
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+35 634 m 2
+ 39 591 57 570 68 570 c 0
+ 79 570 116 600 116 604 c 2
+ 126 718 l 1
+ 126 745 102 770 94 770 c 0
+ 87 770 25 740 25 736 c 2
+ 35 634 l 2
+EndSplineSet
+EndChar

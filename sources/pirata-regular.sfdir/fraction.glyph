@@ -1,0 +1,19 @@
+StartChar: fraction
+Encoding: 8260 8260 111
+Width: 180
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+-2 3 m 1
+ 324 707 l 1
+ 299 710 l 1
+ 223 678 l 1
+ -102 -25 l 1
+ -80 -28 l 1
+ -2 3 l 1
+EndSplineSet
+EndChar

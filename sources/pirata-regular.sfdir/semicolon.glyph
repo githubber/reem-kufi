@@ -1,0 +1,28 @@
+StartChar: semicolon
+Encoding: 59 59 49
+Width: 220
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+49 342 m 2
+ 49 299 71 278 82 278 c 0
+ 93 278 170 308 170 312 c 2
+ 170 385 l 2
+ 170 412 146 437 138 437 c 0
+ 131 437 49 407 49 403 c 2
+ 49 342 l 2
+51 64 m 2
+ 51 19 73 11 73 -4 c 0
+ 73 -28 66 -87 39 -98 c 1
+ 84 -140 l 1
+ 146 -104 172 11 172 34 c 2
+ 172 87 l 2
+ 172 114 148 139 140 139 c 0
+ 133 139 51 109 51 105 c 2
+ 51 64 l 2
+EndSplineSet
+EndChar

@@ -1,0 +1,27 @@
+StartChar: perthousand
+Encoding: 8240 8240 381
+Width: 980
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+714 96 m 2
+ 714 39 751 1 772 1 c 0
+ 793 1 930 54 930 61 c 2
+ 930 251 l 2
+ 930 282 887 326 873 326 c 0
+ 858 326 714 272 714 265 c 2
+ 714 96 l 2
+850 73 m 1
+ 850 73 840 61 825 61 c 0
+ 811 61 793 68 793 109 c 2
+ 793 254 l 1
+ 793 254 802 265 818 265 c 0
+ 831 265 850 257 850 217 c 2
+ 850 73 l 1
+EndSplineSet
+Refer: 241 37 N 1 0 0 1 0 0 2
+EndChar

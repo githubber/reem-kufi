@@ -1,0 +1,687 @@
+SplineFontDB: 3.0
+FontName: PirataOne-Regular
+FullName: Pirata One
+FamilyName: Pirata One
+Weight: Regular
+Copyright: Copyright (c) 2012, Rodrigo Fuenzalida, Nicolas Massi (www.taip.com.ar / abc.taip.com.ar), with Reserved Font Name 'Pirata'
+Version: 1.001
+FONDName: Pirata One
+ItalicAngle: 0
+UnderlinePosition: -75
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+FSType: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1448011065
+PfmFamily: 0
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
+OS2TypoAscent: 770
+OS2TypoAOffset: 0
+OS2TypoDescent: -180
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1006
+OS2WinAOffset: 0
+OS2WinDescent: 279
+OS2WinDOffset: 0
+HheadAscent: 1006
+HheadAOffset: 0
+HheadDescent: -279
+HheadDOffset: 0
+OS2SubXSize: 700
+OS2SubYSize: 650
+OS2SubXOff: 0
+OS2SubYOff: 140
+OS2SupXSize: 700
+OS2SupYSize: 650
+OS2SupXOff: 0
+OS2SupYOff: 477
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2Vendor: 'pyrs'
+OS2CodePages: 00000093.00000000
+OS2UnicodeRanges: a000003f.4000005a.00000000.00000000
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0"  {"'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 1"  {"'mark' Mark Positioning lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "RodrigoFuenzalida,NicolasMassi: Pirata One: 2012" "" "Version 1.001" "" "Pirata is a trademark of Rodrigo Fuenzalida, Nicolas Massi ." "Rodrigo Fuenzalida, Nicolas Massi " "Rodrigo Fuenzalida, Nicolas Massi" "" "abc.taip.com.ar" "www.taip.com.ar" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" 
+PickledData: "(dp1
+S'public.glyphOrder'
+p2
+(S'.notdef'
+S'NULL'
+S'CR'
+S'space'
+S'm'
+S'e'
+S'c'
+S'o'
+S'b'
+S'q'
+S'p'
+S'd'
+S'A'
+S'l'
+S'B'
+S'dotlessi'
+S't'
+S'g'
+S'r'
+S'dotaccent'
+S'i'
+S'n'
+S'f'
+S'h'
+S'a'
+S'u'
+S'j'
+S'y'
+S'v'
+S'w'
+S's'
+S'k'
+S'x'
+S'I'
+S'H'
+S'C'
+S'M'
+S'O'
+S'E'
+S'F'
+S'G'
+S'J'
+S'L'
+S'period'
+S'bracketleft'
+S'N'
+S'Q'
+S'U'
+S'comma'
+S'semicolon'
+S'colon'
+S'K'
+S'z'
+S'oe'
+S'ae'
+S'zero'
+S'one'
+S'D'
+S'P'
+S'R'
+S'S'
+S'T'
+S'V'
+S'W'
+S'X'
+S'Z'
+S'Y'
+S'two'
+S'three'
+S'four'
+S'five'
+S'six'
+S'nine'
+S'seven'
+S'eight'
+S'question'
+S'questiondown'
+S'exclam'
+S'exclamdown'
+S'uni00A0'
+S'equal'
+S'hyphen'
+S'endash'
+S'emdash'
+S'underscore'
+S'section'
+S'parenleft'
+S'parenright'
+S'bracketright'
+S'braceleft'
+S'braceright'
+S'AE'
+S'OE'
+S'schwa'
+S'bar'
+S'brokenbar'
+S'logicalnot'
+S'uni00AD'
+S'dagger'
+S'daggerdbl'
+S'paragraph'
+S'guilsinglleft'
+S'bullet'
+S'Euro'
+S'dollar'
+S'yen'
+S'cent'
+S'dieresis'
+S'guilsinglright'
+S'guillemotleft'
+S'guillemotright'
+S'fraction'
+S'slash'
+S'backslash'
+S'uni2215'
+S'f_i'
+S'f_l'
+S'numbersign'
+S'acute'
+S'grave'
+S'hungarumlaut'
+S'circumflex'
+S'asciicircum'
+S'caron'
+S'tilde'
+S'mu'
+S'asciitilde'
+S'breve'
+S'ring'
+S'macron'
+S'apostrophe'
+S'quotedbl'
+S'periodcentered'
+S'uni2219'
+S'dotlessj'
+S'quotesingle'
+S'uni03BC'
+S'kgreenlandic'
+S'Eng'
+S'eng'
+S'thorn'
+S'ogonek'
+S'cedilla'
+S'quoteleft'
+S'quoteright'
+S'quotesinglbase'
+S'quotedblleft'
+S'quotedblright'
+S'quotedblbase'
+S'Thorn'
+S'eth'
+S'florin'
+S'sterling'
+S'germandbls'
+S'ampersand'
+S'f_f'
+S'f_f_i'
+S'ellipsis'
+S'adieresis'
+S'aacute'
+S'acircumflex'
+S'atilde'
+S'abreve'
+S'aring'
+S'amacron'
+S'agrave'
+S'aogonek'
+S'aeacute'
+S'cacute'
+S'ccircumflex'
+S'ccaron'
+S'ccedilla'
+S'cdotaccent'
+S'dcaron'
+S'dcroat'
+S'egrave'
+S'eacute'
+S'ecircumflex'
+S'edieresis'
+S'emacron'
+S'ebreve'
+S'edotaccent'
+S'eogonek'
+S'etilde'
+S'ecaron'
+S'gcircumflex'
+S'gbreve'
+S'gdotaccent'
+S'gcommaaccent'
+S'hcircumflex'
+S'hbar'
+S'igrave'
+S'iacute'
+S'icircumflex'
+S'idieresis'
+S'itilde'
+S'imacron'
+S'iogonek'
+S'ibreve'
+S'jcircumflex'
+S'kcommaaccent'
+S'lacute'
+S'lcommaaccent'
+S'lcaron'
+S'ldot'
+S'lslash'
+S'nacute'
+S'ncaron'
+S'ntilde'
+S'napostrophe'
+S'ncommaaccent'
+S'ndotaccent'
+S'germandbls.salt'
+S'ij'
+S'onesuperior'
+S'twosuperior'
+S'threesuperior'
+S'ograve'
+S'oacute'
+S'ocircumflex'
+S'otilde'
+S'odieresis'
+S'oslash'
+S'rcaron'
+S'rcommaaccent'
+S'ugrave'
+S'uacute'
+S'ucircumflex'
+S'udieresis'
+S'yacute'
+S'ydieresis'
+S'onehalf'
+S'ordfeminine'
+S'ordmasculine'
+S'degree'
+S'less'
+S'greater'
+S'plus'
+S'plusminus'
+S'multiply'
+S'divide'
+S'percent'
+S'asterisk'
+S'minus'
+S'omacron'
+S'obreve'
+S'ohungarumlaut'
+S'oslashacute'
+S'oogonek'
+S'racute'
+S'sacute'
+S'scircumflex'
+S'scaron'
+S'uni0219'
+S'tbar'
+S'tcaron'
+S'uni021B'
+S'utilde'
+S'umacron'
+S'ubreve'
+S'uring'
+S'uhungarumlaut'
+S'uogonek'
+S'wgrave'
+S'wacute'
+S'wdieresis'
+S'wcircumflex'
+S'ycircumflex'
+S'ygrave'
+S'ytilde'
+S'zacute'
+S'zdotaccent'
+S'zcaron'
+S'uni015F'
+S'uni0163'
+S'AEacute'
+S'Agrave'
+S'Aacute'
+S'Acircumflex'
+S'Atilde'
+S'Adieresis'
+S'Aring'
+S'Amacron'
+S'Abreve'
+S'Aogonek'
+S'Dcroat'
+S'Eth'
+S'Cacute'
+S'Ccircumflex'
+S'Ccaron'
+S'Ccedilla'
+S'Cdotaccent'
+S'Dcaron'
+S'Edieresis'
+S'Eacute'
+S'Egrave'
+S'Ecircumflex'
+S'Ecaron'
+S'Etilde'
+S'Ebreve'
+S'Emacron'
+S'Edotaccent'
+S'Eogonek'
+S'Gcircumflex'
+S'Gbreve'
+S'Gdotaccent'
+S'Gcommaaccent'
+S'Hcircumflex'
+S'Hbar'
+S'Idieresis'
+S'Iacute'
+S'Igrave'
+S'Icircumflex'
+S'Itilde'
+S'Ibreve'
+S'Imacron'
+S'Iogonek'
+S'Idotaccent'
+S'Jcircumflex'
+S'Kcommaaccent'
+S'Lacute'
+S'Lcommaaccent'
+S'Lcaron'
+S'Lslash'
+S'Ntilde'
+S'Nacute'
+S'Ncommaaccent'
+S'Ncaron'
+S'Ndotaccent'
+S'Odieresis'
+S'Oacute'
+S'Ograve'
+S'Ohungarumlaut'
+S'Ocircumflex'
+S'Otilde'
+S'Obreve'
+S'Omacron'
+S'Oslash'
+S'Oslashacute'
+S'Oogonek'
+S'Racute'
+S'Rcaron'
+S'Rcommaaccent'
+S'Sacute'
+S'Scircumflex'
+S'Scaron'
+S'uni0218'
+S'uni015E'
+S'Tbar'
+S'Tcaron'
+S'uni021A'
+S'uni0162'
+S'Udieresis'
+S'Uacute'
+S'Ugrave'
+S'Uhungarumlaut'
+S'Ucircumflex'
+S'Utilde'
+S'Ubreve'
+S'Uring'
+S'Umacron'
+S'Uogonek'
+S'Wdieresis'
+S'Wacute'
+S'Wgrave'
+S'Wcircumflex'
+S'Ydieresis'
+S'Yacute'
+S'Ygrave'
+S'Ycircumflex'
+S'Ytilde'
+S'Zacute'
+S'Zcaron'
+S'Zdotaccent'
+S'IJ'
+S'at'
+S'copyright'
+S'registered'
+S'trademark'
+S'Ldotaccent'
+S'currency'
+S'perthousand'
+S'onethird'
+S'twothirds'
+tp3
+sS'com.fontlab.v2.tth'
+p4
+(dp5
+S'stems'
+p6
+(dp7
+S'Y: 49'
+p8
+(dp9
+S'width'
+p10
+I49
+sS'horizontal'
+p11
+I01
+sS'round'
+p12
+(dp13
+S'31'
+p14
+I2
+sS'52'
+p15
+I3
+sS'0'
+I1
+sS'72'
+p16
+I4
+sS'113'
+p17
+I6
+sS'92'
+p18
+I5
+sssS'X: 109'
+p19
+(dp20
+g10
+I109
+sg11
+I00
+sg12
+(dp21
+S'14'
+p22
+I2
+sS'45'
+p23
+I5
+sS'51'
+p24
+I6
+sS'35'
+p25
+I4
+sS'0'
+I1
+sS'21'
+p26
+I3
+sssS'Y: 97'
+p27
+(dp28
+g10
+I97
+sg11
+I01
+sg12
+(dp29
+g22
+I2
+sS'57'
+p30
+I6
+sg23
+I5
+sS'29'
+p31
+I3
+sg25
+I4
+sS'0'
+I1
+sssS'X: 141'
+p32
+(dp33
+g10
+I141
+sg11
+I00
+sg12
+(dp34
+g22
+I2
+sS'28'
+p35
+I4
+sg25
+I5
+sS'0'
+I1
+sS'40'
+p36
+I6
+sg26
+I3
+sssS'Y: 84'
+p37
+(dp38
+g10
+I84
+sg11
+I01
+sg12
+(dp39
+S'18'
+p40
+I2
+sS'56'
+p41
+I5
+sS'43'
+p42
+I4
+sg31
+I3
+sS'0'
+I1
+sS'66'
+p43
+I6
+sssS'X: 120'
+p44
+(dp45
+g10
+I120
+sg11
+I00
+sg12
+(dp46
+g22
+I2
+sS'46'
+p47
+I6
+sg35
+I4
+sg25
+I5
+sS'0'
+I1
+sg26
+I3
+sssS'X: 80'
+p48
+(dp49
+g10
+I80
+sg11
+I00
+sg12
+(dp50
+g40
+I2
+sg41
+I5
+sg42
+I4
+sg31
+I3
+sS'0'
+I1
+sS'69'
+p51
+I6
+sssssS'com.typemytype.robofont.guides'
+p52
+((dp53
+S'y'
+F630
+sS'x'
+F0
+sS'magnetic'
+p54
+I5
+sS'angle'
+p55
+F0
+sS'isGlobal'
+p56
+I01
+s(dp57
+S'y'
+F809
+sS'x'
+F0
+sg54
+I5
+sg55
+F0
+sg56
+I01
+s(dp58
+S'y'
+F-259
+sS'x'
+F0
+sg54
+I5
+sg55
+F0
+sg56
+I01
+s(dp59
+S'y'
+F985
+sS'x'
+F0
+sg54
+I5
+sg55
+F0
+sg56
+I01
+stp60
+s."
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+BeginPrivate: 8
+BlueFuzz 1 1
+BlueScale 8 0.039625
+BlueShift 1 7
+BlueValues 21 [0 0 571 571 771 771]
+ForceBold 5 false
+OtherBlues 11 [-180 -180]
+StemSnapH 10 [97 49 84]
+StemSnapV 16 [120 80 109 141]
+EndPrivate
+AnchorClass2: "bottom"  "'mark' Mark Positioning lookup 1-1" "top"  "'mark' Mark Positioning lookup 1-1" 
+EndSplineFont

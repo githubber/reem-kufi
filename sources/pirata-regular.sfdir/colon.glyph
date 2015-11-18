@@ -1,0 +1,26 @@
+StartChar: colon
+Encoding: 58 58 50
+Width: 221
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+50 64 m 2
+ 50 21 72 0 83 0 c 0
+ 94 0 171 30 171 34 c 2
+ 171 107 l 2
+ 171 134 147 159 139 159 c 0
+ 132 159 50 129 50 125 c 2
+ 50 64 l 2
+50 342 m 2
+ 50 299 72 278 83 278 c 0
+ 94 278 171 308 171 312 c 2
+ 171 385 l 2
+ 171 412 147 437 139 437 c 0
+ 132 437 50 407 50 403 c 2
+ 50 342 l 2
+EndSplineSet
+EndChar

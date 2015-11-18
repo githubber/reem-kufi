@@ -1,0 +1,20 @@
+StartChar: acute
+Encoding: 180 180 118
+Width: 181
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+AnchorPoint: "top" 90 630 mark 0
+LayerCount: 2
+Fore
+SplineSet
+69 796 m 0
+ 50 765 20 702 20 674 c 0
+ 20 651 32 631 36 631 c 0
+ 48 631 67 638 71 643 c 0
+ 85 661 161 763 161 787 c 0
+ 161 794 153 806 114 806 c 0
+ 91 806 72 801 69 796 c 0
+EndSplineSet
+EndChar

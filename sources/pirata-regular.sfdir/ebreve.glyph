@@ -1,0 +1,24 @@
+StartChar: ebreve
+Encoding: 277 277 180
+Width: 430
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+354 746 m 2
+ 354 769 334 790 327 790 c 0
+ 321 790 261 765 261 761 c 2
+ 261 713 l 1
+ 261 713 232 676 182 676 c 1
+ 164 746 l 2
+ 158 768 144 790 137 790 c 0
+ 131 790 71 765 71 761 c 0
+ 71 680 154 630 180 630 c 0
+ 206 630 354 700 354 710 c 2
+ 354 746 l 2
+EndSplineSet
+Refer: 5 101 N 1 0 0 1 0 0 2
+EndChar

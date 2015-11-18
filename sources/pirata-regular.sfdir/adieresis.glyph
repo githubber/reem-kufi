@@ -1,0 +1,27 @@
+StartChar: adieresis
+Encoding: 228 228 158
+Width: 410
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+95 688 m 2
+ 95 649 115 630 125 630 c 0
+ 135 630 204 657 204 661 c 2
+ 204 726 l 2
+ 204 751 182 773 175 773 c 0
+ 169 773 95 746 95 742 c 2
+ 95 688 l 2
+302 688 m 2
+ 302 649 322 630 332 630 c 0
+ 342 630 411 657 411 661 c 2
+ 411 726 l 2
+ 411 751 389 773 382 773 c 0
+ 376 773 302 746 302 742 c 2
+ 302 688 l 2
+EndSplineSet
+Refer: 24 97 N 1 0 0 1 10 0 2
+EndChar

@@ -1,0 +1,23 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 108
+Width: 321
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+."
+LayerCount: 2
+Fore
+SplineSet
+52 96 m 1
+ 40 117 l 1
+ 54 188 l 1
+ 221 277 l 1
+ 54 369 l 1
+ 40 437 l 1
+ 52 458 l 1
+ 301 307 l 1
+ 293 277 l 1
+ 301 247 l 1
+ 52 96 l 1
+EndSplineSet
+EndChar
