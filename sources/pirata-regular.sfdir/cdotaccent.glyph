@@ -7,14 +7,6 @@ PickledData: "(dp1
 ."
 LayerCount: 2
 Fore
-SplineSet
-117 579 m 2
- 117 543 136 526 145 526 c 0
- 154 526 218 551 218 554 c 2
- 218 615 l 2
- 218 637 199 658 192 658 c 0
- 186 658 117 633 117 630 c 2
- 117 579 l 2
-EndSplineSet
+Refer: 19 729 N 1 0 0 1 88 0 2
 Refer: 6 99 N 1 0 0 1 0 0 2
 EndChar

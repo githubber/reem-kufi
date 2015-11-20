@@ -5,32 +5,48 @@ VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
+AnchorPoint: "top" 92 811 basechar 0
+AnchorPoint: "bottom" 92 0 basechar 0
 LayerCount: 2
+Back
+SplineSet
+7 713 m 5
+ 7 695 l 5
+ 28 691 42 674 42 637 c 6
+ 42 57 l 6
+ 42 24 92 0 92 0 c 5
+ 176 47 l 5
+ 176 66 l 5
+ 155 70 142 86 142 123 c 6
+ 142 704 l 6
+ 142 737 92 761 92 761 c 5
+ 7 713 l 5
+EndSplineSet
 Fore
 SplineSet
--9 407 m 1
- -9 388 l 1
- 42 388 l 1
+-9 527 m 1
+ -9 508 l 1
+ 42 508 l 1
  42 57 l 2
  42 24 92 0 92 0 c 1
  176 47 l 1
  176 66 l 1
  155 70 142 86 142 123 c 2
- 142 388 l 1
- 185 388 l 1
- 227 409 l 1
- 227 429 l 1
- 142 429 l 1
- 142 551 l 2
- 142 568 148 576 157 576 c 0
- 181 576 177 503 202 503 c 0
- 210 503 261 536 294 550 c 1
- 294 566 l 1
- 289 566 275 571 267 586 c 0
- 244 626 242 641 230 641 c 0
- 211 641 42 571 42 547 c 2
- 42 429 l 1
- -9 407 l 1
+ 142 508 l 1
+ 185 508 l 1
+ 227 529 l 1
+ 227 549 l 1
+ 142 549 l 1
+ 142 688 l 25
+ 157 696 l 17
+ 162 686.5 177 623 202 623 c 0
+ 210 623 261 656 294 670 c 1
+ 294 686 l 1
+ 289 686 275 691 267 706 c 0
+ 244 746 242 761 230 761 c 0
+ 42 667 l 2
+ 42 549 l 1
+ -9 527 l 1
 EndSplineSet
 Kerns2: 5 -31 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  7 -37 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  24 -67 "'kern' Horizontal Kerning in Latin lookup 0 subtable"  25 -17 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar

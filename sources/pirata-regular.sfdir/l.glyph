@@ -6,20 +6,29 @@ Flags: HW
 PickledData: "(dp1
 ."
 AnchorPoint: "bottom" 92 0 basechar 0
-AnchorPoint: "top" 92 691 basechar 0
+AnchorPoint: "top" 92 811 basechar 0
 LayerCount: 2
+Back
+SplineSet
+142 800 m 29
+ 142 80 l 22
+ 142 33 212 46 237 58 c 5
+ 216 -17 42 -40 42 80 c 14
+ 42 778 l 29
+ 142 800 l 29
+EndSplineSet
 Fore
 SplineSet
-7 593 m 1
- 7 575 l 1
- 28 571 42 554 42 517 c 2
+7 713 m 1
+ 7 695 l 1
+ 28 691 42 674 42 637 c 2
  42 57 l 2
  42 24 92 0 92 0 c 1
  176 47 l 1
  176 66 l 1
  155 70 142 86 142 123 c 2
- 142 584 l 2
- 142 617 92 641 92 641 c 1
- 7 593 l 1
+ 142 704 l 2
+ 142 737 92 761 92 761 c 1
+ 7 713 l 1
 EndSplineSet
 EndChar

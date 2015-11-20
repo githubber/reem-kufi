@@ -7,6 +7,16 @@ PickledData: "(dp1
 ."
 AnchorPoint: "top" 77 525 mark 0
 LayerCount: 2
+Back
+SplineSet
+29 579 m 6
+ 29 543 48 526 57 526 c 4
+ 66 526 130 551 130 554 c 6
+ 130 615 l 6
+ 130 637 110 658 103 658 c 4
+ 97 658 29 633 29 630 c 6
+ 29 579 l 6
+EndSplineSet
 Fore
 SplineSet
 29 579 m 2
