@@ -1,6 +1,6 @@
 StartChar: guilsinglleft
 Encoding: 8249 8249 101
-Width: 321
+Width: 267
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,16 +8,16 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-269 96 m 1
- 281 117 l 1
- 267 188 l 1
- 100 277 l 1
- 267 369 l 1
- 281 437 l 1
- 269 458 l 1
- 20 307 l 1
- 28 277 l 1
- 20 247 l 1
- 269 96 l 1
+224 80 m 1
+ 234 97 l 1
+ 222 157 l 1
+ 83 231 l 1
+ 222 307 l 1
+ 234 364 l 1
+ 224 382 l 1
+ 17 256 l 1
+ 23 231 l 1
+ 17 206 l 1
+ 224 80 l 1
 EndSplineSet
 EndChar

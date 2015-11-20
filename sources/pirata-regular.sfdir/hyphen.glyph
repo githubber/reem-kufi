@@ -1,6 +1,6 @@
 StartChar: hyphen
 Encoding: 45 45 81
-Width: 381
+Width: 317
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,12 +8,12 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-30 283 m 1
- 30 261 l 1
- 291 261 l 1
- 351 316 l 1
- 351 340 l 1
- 90 340 l 1
- 30 283 l 1
+25 236 m 1
+ 25 217 l 1
+ 242 217 l 1
+ 292 263 l 1
+ 292 283 l 1
+ 75 283 l 1
+ 25 236 l 1
 EndSplineSet
 EndChar

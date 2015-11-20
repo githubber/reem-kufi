@@ -18,7 +18,7 @@ FSType: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1448011065
-PfmFamily: 0
+PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -676,12 +676,12 @@ NameList: AGL For New Fonts
 BeginPrivate: 8
 BlueFuzz 1 1
 BlueScale 8 0.039625
-BlueShift 1 7
-BlueValues 21 [0 0 571 571 771 771]
+BlueShift 1 6
+BlueValues 21 [0 0 476 476 642 642]
 ForceBold 5 false
-OtherBlues 11 [-180 -180]
-StemSnapH 10 [97 49 84]
-StemSnapV 16 [120 80 109 141]
+OtherBlues 11 [-150 -150]
+StemSnapH 10 [81 41 70]
+StemSnapV 15 [100 67 91 117]
 EndPrivate
 AnchorClass2: "bottom"  "'mark' Mark Positioning lookup 1-1" "top"  "'mark' Mark Positioning lookup 1-1" 
 EndSplineFont

@@ -1,6 +1,6 @@
 StartChar: gdotaccent
 Encoding: 289 289 187
-Width: 431
+Width: 359
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,5 +8,5 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 Refer: 17 103 N 1 0 0 1 0 0 2
-Refer: 43 46 N 1 0 0 1 105 631 2
+Refer: 43 46 N 1 0 0 1 87 526 2
 EndChar

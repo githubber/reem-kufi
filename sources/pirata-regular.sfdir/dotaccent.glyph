@@ -1,20 +1,20 @@
 StartChar: dotaccent
 Encoding: 729 729 19
-Width: 191
+Width: 159
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
-AnchorPoint: "top" 93 630 mark 0
+AnchorPoint: "top" 77 525 mark 0
 LayerCount: 2
 Fore
 SplineSet
-35 695 m 2
- 35 652 57 631 68 631 c 0
- 79 631 156 661 156 665 c 2
- 156 738 l 2
- 156 765 132 790 124 790 c 0
- 117 790 35 760 35 756 c 2
- 35 695 l 2
+29 579 m 2
+ 29 543 48 526 57 526 c 0
+ 66 526 130 551 130 554 c 2
+ 130 615 l 2
+ 130 637 110 658 103 658 c 0
+ 97 658 29 633 29 630 c 2
+ 29 579 l 2
 EndSplineSet
 EndChar

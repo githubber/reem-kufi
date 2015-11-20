@@ -1,21 +1,21 @@
 StartChar: ogonek
 Encoding: 731 731 141
-Width: 220
+Width: 183
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
-AnchorPoint: "bottom" 65 0 mark 0
+AnchorPoint: "bottom" 54 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-101 -7 m 0
- 101 30 120 83 120 83 c 1
- 36 38 l 1
- 36 38 20 -10 20 -59 c 0
- 20 -128 101 -150 116 -150 c 0
- 131 -150 220 -112 220 -112 c 1
- 220 -94 l 1
- 101 -94 101 -44 101 -7 c 0
+84 -6 m 0
+ 84 25 100 69 100 69 c 1
+ 30 32 l 1
+ 30 32 17 -8 17 -49 c 0
+ 17 -106 85 -125 97 -125 c 0
+ 109 -125 183 -93 183 -93 c 1
+ 183 -78 l 1
+ 84 -78 84 -37 84 -6 c 0
 EndSplineSet
 EndChar

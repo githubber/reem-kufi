@@ -1,6 +1,6 @@
 StartChar: period
 Encoding: 46 46 43
-Width: 221
+Width: 184
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,12 +8,12 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-50 64 m 2
- 50 21 72 0 83 0 c 0
- 94 0 171 30 171 34 c 2
- 171 107 l 2
- 171 134 147 159 139 159 c 0
- 132 159 50 129 50 125 c 2
- 50 64 l 2
+42 53 m 2
+ 42 17 60 0 69 0 c 0
+ 78 0 142 25 142 28 c 2
+ 142 89 l 2
+ 142 111 123 132 116 132 c 0
+ 110 132 42 107 42 104 c 2
+ 42 53 l 2
 EndSplineSet
 EndChar

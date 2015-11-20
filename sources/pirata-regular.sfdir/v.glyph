@@ -1,6 +1,6 @@
 StartChar: v
 Encoding: 118 118 28
-Width: 430
+Width: 358
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,24 +8,24 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-170 509 m 1
- 170 503 l 2
- 170 543 110 571 110 571 c 1
- 1 510 l 1
- 1 488 l 1
- 26 483 50 468 50 423 c 2
- 50 130 l 2
- 50 86 93 0 135 0 c 0
- 180 0 381 82 381 93 c 2
- 381 433 l 2
- 381 504 330 570 292 570 c 1
- 170 509 l 1
-260 373 m 2
- 260 90 l 1
- 260 90 231 75 212 75 c 0
- 196 75 170 98 170 134 c 2
- 170 475 l 1
- 235 475 260 463 260 373 c 2
+142 424 m 1
+ 142 419 l 2
+ 142 452 92 476 92 476 c 1
+ 1 425 l 1
+ 1 407 l 1
+ 22 403 42 389 42 352 c 2
+ 42 108 l 2
+ 42 71 77 0 112 0 c 0
+ 149 0 317 68 317 77 c 2
+ 317 361 l 2
+ 317 420 275 475 243 475 c 1
+ 142 424 l 1
+217 311 m 2
+ 217 75 l 1
+ 217 75 193 62 177 62 c 0
+ 164 62 142 82 142 112 c 2
+ 142 396 l 1
+ 196 396 217 386 217 311 c 2
 EndSplineSet
-Kerns2: 24 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
+Kerns2: 24 -8 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 
 EndChar

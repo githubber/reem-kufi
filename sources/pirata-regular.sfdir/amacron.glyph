@@ -1,6 +1,6 @@
 StartChar: amacron
 Encoding: 257 257 164
-Width: 410
+Width: 341
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,13 +8,13 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-89 652 m 1
- 89 630 l 1
- 360 630 l 1
- 410 675 l 1
- 410 699 l 1
- 139 699 l 1
- 89 652 l 1
+74 543 m 1
+ 74 525 l 1
+ 300 525 l 1
+ 342 562 l 1
+ 342 582 l 1
+ 116 582 l 1
+ 74 543 l 1
 EndSplineSet
-Refer: 24 97 N 1 0 0 1 10 0 2
+Refer: 24 97 N 1 0 0 1 8 0 2
 EndChar

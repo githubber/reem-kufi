@@ -1,6 +1,6 @@
 StartChar: emdash
 Encoding: 8212 8212 83
-Width: 599
+Width: 498
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,12 +8,12 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-30 283 m 1
- 30 261 l 1
- 509 261 l 1
- 569 316 l 1
- 569 340 l 1
- 90 340 l 1
- 30 283 l 1
+25 236 m 1
+ 25 217 l 1
+ 424 217 l 1
+ 474 263 l 1
+ 474 283 l 1
+ 75 283 l 1
+ 25 236 l 1
 EndSplineSet
 EndChar

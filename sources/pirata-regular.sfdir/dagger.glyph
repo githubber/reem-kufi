@@ -1,6 +1,6 @@
 StartChar: dagger
 Encoding: 8224 8224 98
-Width: 190
+Width: 158
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,22 +8,22 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
--65 283 m 1
- -65 261 l 1
- 55 261 l 1
- 55 -169 l 1
- 77 -169 l 1
- 135 -109 l 1
- 135 261 l 1
- 196 261 l 1
- 256 316 l 1
- 256 340 l 1
- 135 340 l 1
- 135 759 l 1
- 111 759 l 1
- 55 699 l 1
- 55 340 l 1
- -5 340 l 1
- -65 283 l 1
+-54 236 m 1
+ -54 217 l 1
+ 46 217 l 1
+ 46 -141 l 1
+ 64 -141 l 1
+ 112 -91 l 1
+ 112 217 l 1
+ 163 217 l 1
+ 213 263 l 1
+ 213 283 l 1
+ 112 283 l 1
+ 112 632 l 1
+ 92 632 l 1
+ 46 582 l 1
+ 46 283 l 1
+ -4 283 l 1
+ -54 236 l 1
 EndSplineSet
 EndChar

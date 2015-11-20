@@ -1,25 +1,25 @@
 StartChar: L
 Encoding: 76 76 42
-Width: 368
+Width: 306
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
-AnchorPoint: "top" 106 809 basechar 0
+AnchorPoint: "top" 88 674 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 151 m 2
- 50 54 170 0 193 0 c 0
- 215 0 348 56 348 56 c 1
- 348 84 l 1
- 170 84 170 135 170 228 c 2
- 170 637 l 2
- 170 729 221 739 230 739 c 1
- 214 771 l 1
- 9 685 l 1
- 9 654 l 1
- 44 654 50 630 50 585 c 2
- 50 151 l 2
+42 126 m 2
+ 42 45 142 0 161 0 c 0
+ 179 0 290 47 290 47 c 1
+ 290 70 l 1
+ 142 70 142 113 142 190 c 2
+ 142 531 l 2
+ 142 608 185 616 192 616 c 1
+ 178 642 l 1
+ 7 571 l 1
+ 7 545 l 1
+ 36 545 42 524 42 487 c 2
+ 42 126 l 2
 EndSplineSet
 EndChar

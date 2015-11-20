@@ -1,20 +1,20 @@
 StartChar: macron
 Encoding: 175 175 129
-Width: 370
+Width: 308
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
 ."
-AnchorPoint: "top" 184 630 mark 0
+AnchorPoint: "top" 153 525 mark 0
 LayerCount: 2
 Fore
 SplineSet
-29 652 m 1
- 29 630 l 1
- 300 630 l 1
- 350 675 l 1
- 350 699 l 1
- 79 699 l 1
- 29 652 l 1
+24 543 m 1
+ 24 525 l 1
+ 250 525 l 1
+ 292 562 l 1
+ 292 582 l 1
+ 66 582 l 1
+ 24 543 l 1
 EndSplineSet
 EndChar

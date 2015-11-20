@@ -1,6 +1,6 @@
 StartChar: bracketright
 Encoding: 93 93 88
-Width: 221
+Width: 184
 VWidth: 0
 Flags: HW
 PickledData: "(dp1
@@ -8,16 +8,16 @@ PickledData: "(dp1
 LayerCount: 2
 Fore
 SplineSet
-172 702 m 2
- 172 742 112 770 112 770 c 1
- 1 723 l 1
- 1 701 l 1
- 26 696 72 667 72 622 c 2
- 72 101 l 2
- 72 56 26 27 1 22 c 1
+143 585 m 2
+ 143 618 93 641 93 641 c 1
+ 1 602 l 1
+ 1 584 l 1
+ 22 580 60 555 60 518 c 2
+ 60 84 l 2
+ 60 47 22 22 1 18 c 1
  1 0 l 1
- 112 -47 l 1
- 112 -47 172 -19 172 21 c 2
- 172 702 l 2
+ 93 -39 l 1
+ 93 -39 143 -16 143 17 c 2
+ 143 585 l 2
 EndSplineSet
 EndChar
