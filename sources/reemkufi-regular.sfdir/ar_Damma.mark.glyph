@@ -1,9 +1,8 @@
-StartChar: ar1DotBelow.mark
-Encoding: 65635 -1 158
+StartChar: arDamma.mark
+Encoding: 65649 -1 204
 Width: 0
 VWidth: 0
-GlyphClass: 4
-Flags: MW
+Flags: HW
 LayerCount: 3
 Fore
 Refer: 153 -1 N 1 0 0 1 0 0 2
@@ -15,5 +14,5 @@ SplineSet
  58 -32 32 -58 0 -58 c 0
  -32 -58 -58 -32 -58 0 c 0
 EndSplineSet
-Refer: 205 -1 N 1 0 0 1 -1 -136 2
+Comment: "color:ff0000" 
 EndChar

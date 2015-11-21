@@ -298,6 +298,15 @@ feature cv03 {
   sub arHeh.init by arHeh.init3;
 } cv03;
 
+feature ss01 {
+  sub uni064B by arFathatan.mark;
+  sub uni064C by arDammatan.mark;
+  sub uni064D by arKasratan.mark;
+  sub uni064E by arFatha.mark;
+  sub uni064F by arDamma.mark;
+  sub uni0650 by arKasra.mark;
+} ss01;
+
 feature kern {
   @ar23DotBelow = [ar2DotBelow.mark ar3IDotBelow.mark];
   lookupflag UseMarkFilteringSet @ar23DotBelow;

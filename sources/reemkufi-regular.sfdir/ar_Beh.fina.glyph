@@ -17,6 +17,7 @@ SplineSet
  825 300 l 25
 EndSplineSet
 Layer: 2
+Refer: 205 -1 N 1 0 0 1 410 -78 2
 Refer: 154 -1 N 1 0 0 1 410 390 2
 Refer: 158 -1 N 1 0 0 1 410 -150 2
 Refer: 161 -1 N 1 0 0 1 410 -150 2

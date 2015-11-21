@@ -1,0 +1,23 @@
+StartChar: arFatha.mark
+Encoding: 65648 -1 203
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 3
+Fore
+Refer: 153 -1 N 1 0 0 1 0 0 2
+Layer: 2
+SplineSet
+-50.7646484375 -26.1533203125 m 1
+ -41.6484375 -39.60546875 l 1
+ 52.515625 24.2080078125 l 1
+ 43.3994140625 37.66015625 l 1
+ -50.7646484375 -26.1533203125 l 1
+-58 0 m 0
+ -58 32 -32 58 0 58 c 0
+ 32 58 58 32 58 0 c 0
+ 58 -32 32 -58 0 -58 c 0
+ -32 -58 -58 -32 -58 0 c 0
+EndSplineSet
+Comment: "color:ff0000" 
+EndChar

@@ -25,4 +25,7 @@ SplineSet
  445 800 l 1
  445 -0 l 2
 EndSplineSet
+Layer: 2
+Refer: 204 -1 N 1 0 0 1 268 600 2
+Refer: 205 -1 N 1 0 0 1 235 -279 2
 EndChar

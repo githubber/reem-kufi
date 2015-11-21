@@ -10,24 +10,91 @@ from sortsmill import ffcompat as fontforge
 
 from buildencoded import build as build_encoded
 
+def make_color(font, outfile):
+    from fontTools import ttLib
+    from fontTools.ttLib.tables.C_O_L_R_ import LayerRecord
+    from fontTools.ttLib.tables.C_P_A_L_ import Color
+
+    colored = {}
+    for glyph in font.glyphs():
+        if glyph.comment.startswith("color:"):
+            color = glyph.comment.split(":")[1]
+            if not color in colored:
+                colored[color] = []
+            colored[color] += [glyph.name]
+
+    COLR = ttLib.newTable("COLR")
+    CPAL = ttLib.newTable("CPAL")
+
+    CPAL.version = 0
+    COLR.version = 0
+
+    COLR.ColorLayers = {}
+
+    palette = []
+    for color in colored:
+        r = int(color[0:2], 16)
+        g = int(color[2:4], 16)
+        b = int(color[4:6], 16)
+        palette += [Color(red=r, green=g, blue=b, alpha=0xff)]
+
+        for glyph in colored[color]:
+            COLR[glyph] = [LayerRecord(name=glyph, colorID=len(palette) - 1)]
+
+    CPAL.palettes = [palette]
+    CPAL.numPaletteEntries = len(palette)
+
+    ttfont = ttLib.TTFont(outfile)
+    ttfont["COLR"] = COLR
+    ttfont["CPAL"] = CPAL
+    ttfont.save(outfile)
+
 def generate_anchors(font):
     marks = [g.name for g in font.glyphs() if g.name.endswith(".mark")]
 
-    fea = ""
-    fea += "feature mark {\n"
-    for mark in marks:
-        fea += "markClass [%s] <anchor 0 0> @%s;" % (mark, mark.upper())
-
+    mark = dict(classes=set(), glyphs={}, base=True)
+    mkmk = dict(classes=set(), glyphs={}, base=False)
     for glyph in font.glyphs():
-        if glyph.name.endswith(".mark"):
-            continue
         for ref in glyph.layerrefs["Marks"]:
             name = ref[0]
             x = ref[1][-2]
             y = ref[1][-1]
             assert name in marks
-            fea += "position base %s <anchor %d %d> mark @%s;" % (glyph.name, x, y, name.upper())
-    fea += "} mark;"
+            if glyph.name.endswith(".mark"):
+                glyphs = mkmk["glyphs"]
+                classes = mkmk["classes"]
+            else:
+                glyphs = mark["glyphs"]
+                classes = mark["classes"]
+            if not glyph.name in glyphs:
+                glyphs[glyph.name] = []
+            glyphs[glyph.name].append(dict(name=name, x=x, y=y))
+            classes.add(name)
+
+    fea = ""
+    for feature in (mark, mkmk):
+        glyphs = feature["glyphs"]
+        classes = feature["classes"]
+        base = feature["base"]
+        if base:
+            fea += "feature mark {"
+        else:
+            fea += "feature mkmk {"
+        for markClass in classes:
+            fea += "markClass [%s] <anchor 0 0> @%s;" % (markClass, markClass.upper())
+        for glyph in glyphs:
+            points = glyphs[glyph]
+            for point in points:
+                if base:
+                    fea += "pos base "
+                else:
+                    fea += "pos mark "
+                fea += "%s <anchor %d %d> mark @%s;" % (glyph, point["x"], point["y"], point["name"].upper())
+        if base:
+            fea += "} mark;"
+        else:
+            fea += "} mkmk;"
+
     return fea
 
 def auto_hint(font):
@@ -109,6 +176,7 @@ def main():
 
     flags = ["round", "opentype", "no-mac-names"]
     font.generate(args.out_file, flags=flags)
+    make_color(font, args.out_file)
 
 if __name__ == "__main__":
     main()

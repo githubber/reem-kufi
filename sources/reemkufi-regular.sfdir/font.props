@@ -20,6 +20,7 @@ FSType: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1447447341
+ModificationTime: 1448105097
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -43,8 +44,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 160 8 7
 BeginPrivate: 0
 EndPrivate
 Grid
